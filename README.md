@@ -1,5 +1,7 @@
 # Object-Car-Recognition-Tracking-With-Haar-Classification
 
+Tracking Cars using Haar classification with OpenCV
+
 ![Output sample](https://github.com/sahmed01a/Object-Car-Recognition-Tracking-With-Haar-Classification/blob/master/screenshots/footage.gif)
 
 <img src="screenshots/img.png"  height="400" />
