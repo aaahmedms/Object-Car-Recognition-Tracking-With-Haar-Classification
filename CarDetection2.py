@@ -41,7 +41,7 @@ def draw_border(img, pt1, pt2, color, thickness, r, d):
 while(video_footage.isOpened()):
   ret, frame = video_footage.read()
   if ret:
-      #search the coordinates of the image to find the face
+      #search the coordinates of the image to find the cars
       car_capture = car_cascade.detectMultiScale(
                     frame, 
                     1.05, 
