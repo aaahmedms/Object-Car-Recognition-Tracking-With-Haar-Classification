@@ -11,7 +11,7 @@ video_footage = cv2.VideoCapture("SampleVideos\\samplevid.mp4")
 while(video_footage.isOpened()):
   ret, frame = video_footage.read()
   if ret:
-      #search the coordinates of the image to find the face
+      #search the coordinates of the image to find the car
       car_capture = car_cascade.detectMultiScale(
                     frame, 
                     1.05, 
