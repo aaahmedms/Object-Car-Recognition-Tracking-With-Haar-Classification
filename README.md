@@ -2,7 +2,7 @@
 
 
 
-# Data Source
+# Classifier Data Source
 
 Car Haar-Feature Like Car Detection Classifiers cars3.xml:
 Created by github user pmbaumgartner
