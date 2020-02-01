@@ -1,6 +1,6 @@
 # Object-Car-Recognition-Tracking-With-Haar-Classification
 
-![Output sample](https://github.com/sahmed01a/Object-Car-Recognition-Tracking-With-Haar-Classification/screenshots/footage.gif)
+![Output sample](https://github.com/sahmed01a/Object-Car-Recognition-Tracking-With-Haar-Classification/blob/master/screenshots/footage.gif)
 
 # Classifier Data Source
 
