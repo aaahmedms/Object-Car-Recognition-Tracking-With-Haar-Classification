@@ -2,6 +2,8 @@
 
 ![Output sample](https://github.com/sahmed01a/Object-Car-Recognition-Tracking-With-Haar-Classification/blob/master/screenshots/footage.gif)
 
+<img src="screenshots/img.png"  height="400" />
+
 # Classifier Data Source
 
 Haar-Feature Like Car Detection Classifiers cars1.xml:
