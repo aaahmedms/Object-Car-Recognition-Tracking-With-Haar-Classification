@@ -13,7 +13,7 @@ There are two examples included here, one with regular tracking using a generic 
 <strong>1. Download python 3 here, in this case it was python-3.6.4-amd64 for windows:</strong>
 https://www.python.org/downloads/release/python-364/
 
-<strong> 2. To install python libraries on windows: </strong>
+<strong> 2. To install python libraries on directory: </strong>
 <ul>
  	<li> Open up installation directory and run cmd on windows. 	</li>
  	<li> cd D:\Python3\Scripts 	</li>
