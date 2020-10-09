@@ -2,7 +2,7 @@
 
 Tracking Cars using Haar classification with OpenCV using a pre-trained cascade classifier. 
 
-![Output sample](https://github.com/sahmed01a/Object-Car-Recognition-Tracking-With-Haar-Classification/blob/master/screenshots/footage.gif)
+![Output sample](https://github.com/shailahmed44/Object-Car-Recognition-Tracking-With-Haar-Classification/blob/master/screenshots/footage.gif)
 
 There are two examples included here, one with regular tracking using a generic square, the other is an edged square:
 
